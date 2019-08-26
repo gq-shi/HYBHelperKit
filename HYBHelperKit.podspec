@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
   s.source_files  = "HYBHelperKitSources/*"
 #s.public_header_files = 'HYBHelperKitSources/HYBHelperKit.h'
   s.requires_arc = true
- s.dependency "Masonry", ">= 1.0.1"
+ s.dependency "Masonry", ">= 1.1.0"
 
 end
